@@ -10,9 +10,9 @@ Each folder inside this repo is a standalone project:
 
 | Project Name | Technology | Live Demo |
 |--------------|------------|-----------|
-| 💼 **1-Portfolio** | HTML, CSS | [View Demo](./Portfolio/index.html) |
-| 🃏 **2-Flipping Card** | HTML, CSS | [View Demo](./Flipping-card/index.html) |
-| 👤 **3-Profile Card** | HTML, CSS | [View Demo](./Profile-card/index.html) |
+| **1-Portfolio** | HTML, CSS | [Portfolio](https://ibrahimhanyattia.github.io/Frontend-Projects/1-Portfolio/) |
+| **2-Flipping Card** | HTML, CSS | [Flipping card](https://ibrahimhanyattia.github.io/Frontend-Projects/2-Flipping-card/) |
+| **3-Profile Card** | HTML, CSS | [Profile Card](https://ibrahimhanyattia.github.io/Frontend-Projects/3-Profile-card/) |
 
 ## 🚀 How to Use
 1. Clone the repository:
