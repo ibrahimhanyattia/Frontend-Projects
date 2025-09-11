@@ -5,6 +5,8 @@ I create these projects daily to sharpen my skills, experiment with new ideas, a
 
 Feel free to ⭐ this repository and check back for updates!
 
+
+
 ## 📂 Projects
 Each folder inside this repo is a standalone project:
 
@@ -14,6 +16,8 @@ Each folder inside this repo is a standalone project:
 | **2-Flipping Card** | HTML, CSS | [Flipping card](https://ibrahimhanyattia.github.io/Frontend-Projects/2-Flipping-card/) |
 | **3-Profile Card** | HTML, CSS | [Profile Card](https://ibrahimhanyattia.github.io/Frontend-Projects/3-Profile-card/) |
 
+
+
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
@@ -22,6 +26,8 @@ Each folder inside this repo is a standalone project:
 2. Navigate to any project folder you want to explore
 3. Open `index.html` in your browser
 4. Enjoy exploring the interactive features!
+
+
 
 ## 📞 Connect With Me
 - **GitHub**: [[Your GitHub Profile](https://github.com/ibrahimhanyattia)]
