@@ -15,6 +15,7 @@ Each folder inside this repo is a standalone project:
 | **1-Portfolio** | HTML, CSS | [Portfolio](https://ibrahimhanyattia.github.io/Frontend-Projects/1-Portfolio/) |
 | **2-Flipping Card** | HTML, CSS | [Flipping card](https://ibrahimhanyattia.github.io/Frontend-Projects/2-Flipping-card/) |
 | **3-Profile Card** | HTML, CSS | [Profile Card](https://ibrahimhanyattia.github.io/Frontend-Projects/3-Profile-card/) |
+| **4-Menu Sidebar** | HTML, CSS | [Menu Sidebar](https://ibrahimhanyattia.github.io/Frontend-Projects/4-Menu-sidebar/) |
 
 
 
