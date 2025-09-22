@@ -31,8 +31,8 @@ Each folder inside this repo is a standalone project:
 
 
 ## 📞 Connect With Me
-- **GitHub**: [[Your GitHub Profile](https://github.com/ibrahimhanyattia)]
-- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/ibrahim-hany-attia/)]
+- **GitHub**: [[Link](https://github.com/ibrahimhanyattia)]
+- **LinkedIn**: [[Link](https://www.linkedin.com/in/ibrahim-hany-attia/)]
 
 ---
 *Happy coding! 💻✨*
