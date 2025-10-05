@@ -17,6 +17,7 @@ Each folder inside this repo is a standalone project:
 | **3-Profile Card** | HTML, CSS | [Profile Card](https://ibrahimhanyattia.github.io/Frontend-Projects/3-Profile-card/) |
 | **4-Menu Sidebar** | HTML, CSS | [Menu Sidebar](https://ibrahimhanyattia.github.io/Frontend-Projects/4-Menu-sidebar/) |
 | **5-Mobile Menu** | HTML, CSS, JS | [Mobile Menu](https://ibrahimhanyattia.github.io/Frontend-Projects/5-Mobile-menu/) |
+| **6-Responsive Dashboard** | HTML, CSS | [Responsive Dashboard](https://ibrahimhanyattia.github.io/Frontend-Projects/6-Responsive-dashboard/) |
 
 
 
