@@ -18,6 +18,7 @@ Each folder inside this repo is a standalone project:
 | **4-Menu Sidebar** | HTML, CSS | [Menu Sidebar](https://ibrahimhanyattia.github.io/HTML-CSS-JS-Playground/4-Menu-sidebar/) |
 | **5-Mobile Menu** | HTML, CSS, JS | [Mobile Menu](https://ibrahimhanyattia.github.io/HTML-CSS-JS-Playground/5-Mobile-menu/) |
 | **6-Responsive Dashboard** | HTML, CSS | [Responsive Dashboard](https://ibrahimhanyattia.github.io/HTML-CSS-JS-Playground/6-Responsive-dashboard/) |
+| **7-Avatar Movie** | HTML, CSS | [Avatar Movie](https://ibrahimhanyattia.github.io/HTML-CSS-JS-Playground/7-Avatar-movie/) |
 
 
 
