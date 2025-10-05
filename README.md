@@ -24,7 +24,7 @@ Each folder inside this repo is a standalone project:
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ibrahimhanyattia/frontend-projects.git
+   git clone https://github.com/ibrahimhanyattia/HTML-CSS-JS-Playground.git
    ```
 2. Navigate to any project folder you want to explore
 3. Open `index.html` in your browser
